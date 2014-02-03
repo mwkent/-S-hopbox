@@ -1,7 +1,6 @@
-broccolicka
-===========
-####(s)hop box: tartanhacks 2014 by the camel
-*"hey, bunnies need to shop too..."*
+(S)hopbox
+=========
 
-turn up the volume and shop till ya drop/hop: **http://shopbox.herokuapp.com**
+Tartanhacks Fall 2014 with Jing Xiao, Noelle Jung, and David Lu
 
+**http://shopbox.herokuapp.com**
